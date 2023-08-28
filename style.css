@@ -1,0 +1,49 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.two {
+    text-align: center;
+}
+.bring {
+    font-size: 70px;
+}
+.save{
+    font-size: 20px;
+}
+.four {
+    text-align: center;
+}
+.four img{
+    width: 100%;
+}
+.main {
+    background-color: #f5f5f7;
+}
+.five{
+    justify-content: center;
+    justify-content: space-evenly;
+    border-bottom: 2px solid black;
+    margin-right: 10px;
+    /* border-width: 5px; */
+    /* border-right: 10px; */
+    /* width: 100px; */    
+}
+/* .underline {
+    width: 500px;
+    background-color: black;
+} */
+.six {
+    /* justify-content: center; */
+    text-align: center;
+}
+.text {
+    justify-content: center;
+}
+/* .macbook {
+    border: 2px solid black;
+    border
+} */
+.eight {
+    display: flex !important;
+}

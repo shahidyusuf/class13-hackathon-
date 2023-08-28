@@ -1,0 +1,12 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+.container .row {
+    text-align: center;
+    justify-content: center;
+}
+.row img {
+    width: 500px;
+    justify-content: center;
+}
