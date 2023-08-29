@@ -2,48 +2,85 @@
     padding: 0px;
     margin: 0px;
 }
-.two {
+.heading {
+    background-color: #f2f2f4;
     text-align: center;
-}
-.bring {
-    font-size: 70px;
-}
-.save{
-    font-size: 20px;
-}
-.four {
-    text-align: center;
-}
-.four img{
-    width: 100%;
-}
-.main {
-    background-color: #f5f5f7;
-}
-.five{
     justify-content: center;
-    justify-content: space-evenly;
-    border-bottom: 2px solid black;
-    margin-right: 10px;
-    /* border-width: 5px; */
-    /* border-right: 10px; */
-    /* width: 100px; */    
 }
-/* .underline {
-    width: 500px;
-    background-color: black;
-} */
-.six {
+.container .heading2 {
+    justify-content: center;
+    position: fixed;
+}
+.second2 {
+    position: fixed;
+}
+.second {
+    justify-content: center;
+    /* display: block; */
+    /* position: fixed; */
+    /* justify-items: center; */
+    /* text-align: center; */
+}
+.container .naavbaar {
+    justify-content: center;
+}
+.naavbaar {
+    background-color: white;
+    /* text-align: center; */
     /* justify-content: center; */
-    text-align: center;
 }
-.text {
+.three {
+    background-color: #f2f2f4;    
+}
+.container .row {
+    text-align: center;
     justify-content: center;
 }
-/* .macbook {
-    border: 2px solid black;
-    border
+.row img {
+    width: 500px;
+    justify-content: center;
+}
+.four img {
+    width: 60%;
+    /* height: 500px; */
+}
+.five img {
+    width: 60%;
+}
+/* .six .c1 {
+    width: 5000px;
+    height: 500px;
+    background: url(images/hero_iphone_14_pro.jpg);
+    background-size: cover;
 } */
-.eight {
-    display: flex !important;
+.hello div{
+    background-size: cover;
+    min-height: 60vh;
+    width: 100%;
+    position: relative;
+    color: white;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, .2);
+    /* justify-content: end; */
+    justify-items: left;
+}
+/* .marg */
+.image1 {
+    background-image: url(images/iphonepro.png);
+    height: 60vh;
+}
+.image2 {
+    background-image: url(images/ipadpro.png);
+}
+ul li .footnote {
+    font-size: 12px;
+    line-height: 1.33337;
+    font-weight: 400;
+    letter-spacing: -.01em;
+    font-family: "SF Pro Text","Myriad Set Pro","SF Pro Icons","Apple Legacy Chevron","Helvetica Neue","Helvetica","Arial",sans-serif;
+}
+.nine{
+    justify-content: space-around;
+}
+.nine ul li {
+    list-style-type: none;
 }
